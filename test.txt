@@ -17,5 +17,4 @@ changes for making merge
 
 
 
-changes
->>>>>>> feature3
+
