@@ -1,7 +1,21 @@
 Add user
+<<<<<<< HEAD
 
 
 changesss
 
 
 chages done for conflict.
+=======
+change 1
+
+change 2
+
+
+changes for making merge
+
+
+
+
+changes
+>>>>>>> feature3
